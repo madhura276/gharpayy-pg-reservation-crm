@@ -8,6 +8,11 @@ This project is built as part of the Gharpayy assignment. The goal is to design 
 
 The app helps an operations or sales team capture leads, assign ownership, manage lead stages, schedule property visits, reserve beds, and track performance through a simple dashboard.
 
+## Live Deployed App:
+
+https://gharpayy-pg-reservation-41i8n4o6y-gmadhuratech-3418s-projects.vercel.app/
+
+
 ## Project Structure
 
 ```txt
