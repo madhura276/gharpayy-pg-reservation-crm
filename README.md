@@ -12,6 +12,9 @@ The app helps an operations or sales team capture leads, assign ownership, manag
 
 https://gharpayy-pg-reservation-41i8n4o6y-gmadhuratech-3418s-projects.vercel.app/
 
+## Loom Video
+
+https://www.loom.com/share/50ed34dbd0de481d9ed379c5d1c5cd7d
 
 ## Project Structure
 
